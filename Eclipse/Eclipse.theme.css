@@ -7,8 +7,8 @@
  */
  @import url(https://nextr0ll.github.io/Eclipse/core.css);
  :root {
-    --rgb: 230, 100, 90; /* Main color */
-    --main-black: #1C2120;
+    --rgb: 102, 102, 204; /* Main color */
+    --main-black: #6600CC;
     --secondary-black: #111411;
     --third-black: #171b19;
     --fourth-black: #1a1f1d;
